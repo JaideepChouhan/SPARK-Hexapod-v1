@@ -1,0 +1,23 @@
+{
+    "robot_name": "Connor",
+    "robot_model": "RK800",
+    "robot_serial": "313-248-317",
+    "system_status": {
+        "audio": true,
+        "vision": true,
+        "movement": true,
+        "thinking": true,
+        "emotion": true
+    },
+    "personality": {
+        "empathy": 0.5,
+        "logic": 0.8,
+        "initiative": 0.6,
+        "creativity": 0.4
+    },
+    "voice": {
+        "rate": 175,
+        "volume": 1.0,
+        "voice_id": 0
+    }
+}

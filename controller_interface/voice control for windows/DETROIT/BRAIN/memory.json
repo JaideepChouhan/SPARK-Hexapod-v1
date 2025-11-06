@@ -1,0 +1,15 @@
+{
+    "facts": {
+        "last_wake_word": {
+            "value": "android",
+            "timestamp": "2025-04-25T09:57:40.637002"
+        },
+        "last_activation": {
+            "value": "2025-04-25T09:57:40.638525",
+            "timestamp": "2025-04-25T09:57:40.638525"
+        }
+    },
+    "people": {},
+    "preferences": {},
+    "experiences": []
+}

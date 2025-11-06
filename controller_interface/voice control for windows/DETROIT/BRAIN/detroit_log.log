@@ -1,0 +1,1634 @@
+2025-04-20 12:01:28,816 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 12:01:28,819 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 12:01:28,829 - DETROIT - ERROR - Error in speech function: module 'voice' has no attribute 'speak'
+2025-04-20 12:01:28,829 - DETROIT - INFO - Running system diagnostics
+2025-04-20 12:01:28,829 - DETROIT - INFO - Starting interactive mode
+2025-04-20 12:01:28,830 - DETROIT - INFO - Starting integrated voice system
+2025-04-20 12:01:28,830 - DETROIT - ERROR - Error starting voice system: module 'voice' has no attribute 'run_speech_recognition'
+2025-04-20 12:01:28,830 - DETROIT - ERROR - Could not start voice system. Exiting interactive mode.
+2025-04-20 12:01:28,830 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 12:01:28,832 - DETROIT - ERROR - Error in speech function: module 'voice' has no attribute 'speak'
+2025-04-20 12:01:28,833 - DETROIT - INFO - State saved successfully
+2025-04-20 12:01:38,966 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 12:01:38,987 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 12:01:38,993 - DETROIT - ERROR - Error in speech function: module 'voice' has no attribute 'speak'
+2025-04-20 12:01:38,994 - DETROIT - INFO - Running system diagnostics
+2025-04-20 12:01:38,996 - DETROIT - INFO - Starting interactive mode
+2025-04-20 12:01:38,996 - DETROIT - INFO - Starting integrated voice system
+2025-04-20 12:01:38,997 - DETROIT - ERROR - Error starting voice system: module 'voice' has no attribute 'run_speech_recognition'
+2025-04-20 12:01:38,997 - DETROIT - ERROR - Could not start voice system. Exiting interactive mode.
+2025-04-20 12:01:38,998 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 12:01:38,998 - DETROIT - ERROR - Error in speech function: module 'voice' has no attribute 'speak'
+2025-04-20 12:01:39,002 - DETROIT - INFO - State saved successfully
+2025-04-20 12:05:44,413 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 12:05:44,414 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 12:05:44,420 - DETROIT - ERROR - Error in speech function: module 'voice' has no attribute 'speak'
+2025-04-20 12:05:44,422 - DETROIT - INFO - Running system diagnostics
+2025-04-20 12:05:44,425 - DETROIT - INFO - Starting interactive mode
+2025-04-20 12:05:44,425 - DETROIT - INFO - Starting integrated voice system
+2025-04-20 12:05:44,426 - DETROIT - ERROR - Error starting voice system: module 'voice' has no attribute 'run_speech_recognition'
+2025-04-20 12:05:44,426 - DETROIT - ERROR - Could not start voice system. Exiting interactive mode.
+2025-04-20 12:05:44,427 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 12:05:44,427 - DETROIT - ERROR - Error in speech function: module 'voice' has no attribute 'speak'
+2025-04-20 12:05:44,430 - DETROIT - INFO - State saved successfully
+2025-04-20 12:36:58,501 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 12:36:58,504 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 12:36:58,509 - DETROIT - ERROR - Error in speech function: module 'voice' has no attribute 'speak'
+2025-04-20 12:36:58,510 - DETROIT - INFO - Running system diagnostics
+2025-04-20 12:36:58,511 - DETROIT.RUNNER - ERROR - Error setting up voice system: name 'importlib' is not defined
+2025-04-20 12:36:58,511 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 12:36:58,514 - DETROIT - ERROR - Error in speech function: module 'voice' has no attribute 'speak'
+2025-04-20 12:36:58,516 - DETROIT - INFO - State saved successfully
+2025-04-20 12:48:57,152 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 12:48:57,153 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 12:48:57,165 - DETROIT - ERROR - Error in speech function: module 'voice_module' has no attribute 'speak'
+2025-04-20 12:48:57,166 - DETROIT - INFO - Running system diagnostics
+2025-04-20 12:48:57,169 - DETROIT - INFO - Starting interactive mode
+2025-04-20 12:48:57,170 - DETROIT - INFO - Starting integrated voice system
+2025-04-20 12:48:57,173 - DETROIT - ERROR - Error starting voice system: module 'voice_module' has no attribute 'run_speech_recognition'
+2025-04-20 12:48:57,173 - DETROIT - ERROR - Could not start voice system. Exiting interactive mode.
+2025-04-20 12:48:57,173 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 12:48:57,176 - DETROIT - ERROR - Error in speech function: module 'voice_module' has no attribute 'speak'
+2025-04-20 12:48:57,180 - DETROIT - INFO - State saved successfully
+2025-04-20 12:52:12,051 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 12:52:12,054 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 12:52:12,468 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 12:52:12,470 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 12:52:18,793 - DETROIT - INFO - Running system diagnostics
+2025-04-20 12:52:18,794 - DETROIT - INFO - Starting interactive mode
+2025-04-20 12:52:18,795 - DETROIT - INFO - Starting speech recognition script: D:\GIT\DETROIT\EARS\ear.py
+2025-04-20 12:52:18,796 - DETROIT - ERROR - Error in interactive mode: name 'tempfile' is not defined
+2025-04-20 12:52:18,799 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 12:52:21,598 - DETROIT - INFO - State saved successfully
+2025-04-20 12:55:11,650 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 12:55:11,653 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 12:55:11,929 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 12:55:11,929 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 12:55:17,673 - DETROIT - INFO - Running system diagnostics
+2025-04-20 12:55:17,676 - DETROIT - INFO - Starting interactive mode
+2025-04-20 12:55:17,677 - DETROIT - INFO - Starting speech recognition script: D:\GIT\DETROIT\EARS\ear.py
+2025-04-20 12:55:17,713 - DETROIT - INFO - Speech recognition process started (PID: 13376).
+2025-04-20 12:55:21,483 - DETROIT - INFO - Speech recognition process has ended.
+2025-04-20 12:55:21,485 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 12:55:24,236 - DETROIT - INFO - State saved successfully
+2025-04-20 13:00:24,147 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 13:00:24,148 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 13:00:24,615 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 13:00:24,616 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 13:00:30,122 - DETROIT - INFO - Running system diagnostics
+2025-04-20 13:00:30,123 - DETROIT - INFO - Starting interactive mode
+2025-04-20 13:00:30,124 - DETROIT - INFO - Starting speech recognition script: D:\GIT\DETROIT\EARS\ear.py
+2025-04-20 13:00:30,128 - DETROIT - INFO - Removed old communication file
+2025-04-20 13:00:30,191 - DETROIT - INFO - Speech recognition process started (PID: 20744).
+2025-04-20 13:00:36,130 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 13:00:36,228 - DETROIT - INFO - Speech recognition restarted (PID: 8684).
+2025-04-20 13:00:41,128 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 13:00:41,135 - DETROIT - INFO - Speech recognition restarted (PID: 21452).
+2025-04-20 13:00:45,798 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 13:00:45,816 - DETROIT - INFO - Speech recognition restarted (PID: 2948).
+2025-04-20 13:00:50,459 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 13:00:50,474 - DETROIT - INFO - Speech recognition restarted (PID: 22864).
+2025-04-20 13:00:51,173 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 13:00:51,175 - DETROIT - ERROR - Error in speech function: run loop already started
+2025-04-20 13:00:51,179 - DETROIT - INFO - State saved successfully
+2025-04-20 13:04:17,122 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 13:04:17,123 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 13:04:17,294 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 13:04:17,295 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 13:04:22,557 - DETROIT - INFO - Running system diagnostics
+2025-04-20 13:04:22,560 - DETROIT - INFO - Starting interactive mode
+2025-04-20 13:04:22,561 - DETROIT - INFO - Starting robust speech recognition script: D:\GIT\DETROIT\EARS\ear_robust.py
+2025-04-20 13:04:22,600 - DETROIT - INFO - Speech recognition process started (PID: 26452).
+2025-04-20 13:04:46,581 - DETROIT - INFO - Speech recognition process terminated
+2025-04-20 13:04:46,582 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 13:04:49,179 - DETROIT - INFO - State saved successfully
+2025-04-20 14:27:44,991 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 14:27:45,000 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 14:27:45,302 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 14:27:45,303 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 14:27:50,053 - DETROIT - INFO - Running system diagnostics
+2025-04-20 14:27:50,054 - DETROIT - INFO - Starting interactive mode
+2025-04-20 14:27:50,055 - DETROIT - INFO - Starting robust speech recognition script: D:\GIT\DETROIT\EARS\ear_robust.py
+2025-04-20 14:27:50,057 - DETROIT - INFO - Removed old communication file
+2025-04-20 14:27:50,068 - DETROIT - INFO - Speech recognition process started (PID: 19412).
+2025-04-20 14:29:24,276 - DETROIT - INFO - Wake word detected: 'detroit'! System activated.
+2025-04-20 14:31:07,467 - DETROIT - INFO - Speech recognition process terminated
+2025-04-20 14:31:07,469 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 14:31:10,422 - DETROIT - INFO - State saved successfully
+2025-04-20 14:31:16,318 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 14:31:16,321 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 14:31:16,632 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 14:31:16,632 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 14:31:21,583 - DETROIT - INFO - Running system diagnostics
+2025-04-20 14:31:21,584 - DETROIT - INFO - Starting interactive mode
+2025-04-20 14:31:21,584 - DETROIT - INFO - Starting robust speech recognition script: D:\GIT\DETROIT\EARS\ear_robust.py
+2025-04-20 14:31:21,585 - DETROIT - INFO - Removed old communication file
+2025-04-20 14:31:21,599 - DETROIT - INFO - Speech recognition process started (PID: 25236).
+2025-04-20 14:31:50,704 - DETROIT - INFO - Speech recognition process terminated
+2025-04-20 14:31:50,705 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 14:31:53,426 - DETROIT - INFO - State saved successfully
+2025-04-20 14:31:59,125 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 14:31:59,126 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 14:31:59,481 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 14:31:59,481 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 14:32:04,319 - DETROIT - INFO - Running system diagnostics
+2025-04-20 14:32:04,319 - DETROIT - INFO - Starting interactive mode
+2025-04-20 14:32:04,320 - DETROIT - INFO - Starting robust speech recognition script: D:\GIT\DETROIT\EARS\ear_robust.py
+2025-04-20 14:32:04,321 - DETROIT - INFO - Removed old communication file
+2025-04-20 14:32:04,357 - DETROIT - INFO - Speech recognition process started (PID: 11556).
+2025-04-20 14:32:10,599 - DETROIT - INFO - Wake word detected: 'android'! System activated.
+2025-04-20 14:32:53,677 - DETROIT - INFO - Speech recognition process terminated
+2025-04-20 14:32:53,678 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 14:32:56,333 - DETROIT - INFO - State saved successfully
+2025-04-20 14:33:01,145 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 14:33:01,146 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 14:33:01,365 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 14:33:01,365 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 14:33:06,058 - DETROIT - INFO - Running system diagnostics
+2025-04-20 14:33:06,060 - DETROIT - INFO - Starting interactive mode
+2025-04-20 14:33:06,060 - DETROIT - INFO - Starting robust speech recognition script: D:\GIT\DETROIT\EARS\ear_robust.py
+2025-04-20 14:33:06,063 - DETROIT - INFO - Removed old communication file
+2025-04-20 14:33:06,084 - DETROIT - INFO - Speech recognition process started (PID: 21832).
+2025-04-20 14:33:13,292 - DETROIT - INFO - Wake word detected: 'android'! System activated.
+2025-04-20 14:33:16,158 - DETROIT - INFO - Wake word detected: 'android'! System activated.
+2025-04-20 14:33:25,503 - DETROIT - INFO - Speech recognition process terminated
+2025-04-20 14:33:25,505 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 14:33:28,383 - DETROIT - INFO - State saved successfully
+2025-04-20 14:39:37,232 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 14:39:37,233 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 14:39:37,466 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 14:39:37,466 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 14:39:42,035 - DETROIT - INFO - Running system diagnostics
+2025-04-20 14:39:42,036 - DETROIT - INFO - Starting interactive mode
+2025-04-20 14:39:42,037 - DETROIT - INFO - Starting robust speech recognition script: D:\GIT\DETROIT\EARS\ear_robust.py
+2025-04-20 14:39:42,040 - DETROIT - INFO - Removed old communication file
+2025-04-20 14:39:42,065 - DETROIT - INFO - Speech recognition process started (PID: 9196).
+2025-04-20 14:39:51,770 - DETROIT - INFO - Wake word detected: 'detroit'! System activated.
+2025-04-20 14:41:17,108 - DETROIT - INFO - Speech recognition process terminated
+2025-04-20 14:41:17,109 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 14:41:19,862 - DETROIT - INFO - State saved successfully
+2025-04-20 14:53:16,157 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 14:53:16,159 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 14:53:16,388 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 14:53:16,389 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 14:53:20,971 - DETROIT - INFO - Running system diagnostics
+2025-04-20 14:53:20,971 - DETROIT - INFO - Starting interactive mode
+2025-04-20 14:53:20,972 - DETROIT - INFO - Starting robust speech recognition script: D:\GIT\DETROIT\EARS\ear_robust.py
+2025-04-20 14:53:20,973 - DETROIT - INFO - Removed old communication file
+2025-04-20 14:53:20,982 - DETROIT - INFO - Speech recognition process started (PID: 12516).
+2025-04-20 14:53:30,266 - DETROIT - INFO - Wake word detected: 'detroit'! System activated.
+2025-04-20 14:53:55,802 - DETROIT - INFO - Wake word detected: 'detroit'! System activated.
+2025-04-20 14:54:31,390 - DETROIT - INFO - Speech recognition process terminated
+2025-04-20 14:54:31,391 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 14:54:34,077 - DETROIT - INFO - State saved successfully
+2025-04-20 15:07:59,305 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 15:07:59,306 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 15:07:59,545 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 15:07:59,546 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 15:08:04,711 - DETROIT - INFO - Running system diagnostics
+2025-04-20 15:08:04,712 - DETROIT - INFO - Starting interactive mode
+2025-04-20 15:08:04,712 - DETROIT - INFO - Starting robust speech recognition script: D:\GIT\DETROIT\EARS\ear_robust.py
+2025-04-20 15:08:04,714 - DETROIT - INFO - Removed old communication file
+2025-04-20 15:08:04,726 - DETROIT - INFO - Speech recognition process started (PID: 19196).
+2025-04-20 15:08:15,951 - DETROIT - INFO - Wake word detected: 'detroit'! System activated.
+2025-04-20 15:08:24,754 - DETROIT - INFO - Speech recognition process terminated
+2025-04-20 15:08:24,755 - DETROIT - INFO - Communication file removed
+2025-04-20 15:08:24,756 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 15:08:27,342 - DETROIT - INFO - State saved successfully
+2025-04-20 15:25:47,194 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 15:25:47,196 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 15:25:47,425 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 15:25:47,425 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 15:25:52,096 - DETROIT - INFO - Running system diagnostics
+2025-04-20 15:25:52,097 - DETROIT - INFO - Starting interactive mode
+2025-04-20 15:25:52,097 - DETROIT - INFO - Starting robust speech recognition script: D:\GIT\DETROIT\EARS\ear_robust.py
+2025-04-20 15:25:52,099 - DETROIT - INFO - Removed old communication file
+2025-04-20 15:25:52,114 - DETROIT - INFO - Speech recognition process started (PID: 19880).
+2025-04-20 15:25:57,718 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 15:25:57,724 - DETROIT - INFO - Speech recognition restarted (PID: 15204).
+2025-04-20 15:26:02,559 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 15:26:02,562 - DETROIT - INFO - Speech recognition restarted (PID: 14380).
+2025-04-20 15:26:07,197 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 15:26:07,202 - DETROIT - INFO - Speech recognition restarted (PID: 27484).
+2025-04-20 15:26:08,955 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 15:26:08,956 - DETROIT - ERROR - Error in speech function: run loop already started
+2025-04-20 15:26:08,957 - DETROIT - INFO - State saved successfully
+2025-04-20 15:27:01,273 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 15:27:01,274 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 15:27:01,398 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 15:27:01,399 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 15:27:06,704 - DETROIT - INFO - Running system diagnostics
+2025-04-20 15:27:06,704 - DETROIT - INFO - Starting interactive mode
+2025-04-20 15:27:06,705 - DETROIT - INFO - Starting robust speech recognition script: D:\GIT\DETROIT\EARS\ear_robust.py
+2025-04-20 15:27:06,723 - DETROIT - INFO - Speech recognition process started (PID: 16660).
+2025-04-20 15:27:12,318 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 15:27:12,321 - DETROIT - INFO - Speech recognition restarted (PID: 12964).
+2025-04-20 15:27:16,925 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 15:27:19,522 - DETROIT - INFO - State saved successfully
+2025-04-20 15:36:00,308 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 15:36:00,309 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 15:36:00,513 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 15:36:00,514 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 15:36:05,724 - DETROIT - INFO - Running system diagnostics
+2025-04-20 15:36:05,725 - DETROIT - INFO - Starting interactive mode
+2025-04-20 15:36:05,725 - DETROIT - INFO - Starting robust speech recognition script: D:\GIT\DETROIT\EARS\ear_robust.py
+2025-04-20 15:36:05,737 - DETROIT - INFO - Speech recognition process started (PID: 7720).
+2025-04-20 15:36:11,348 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 15:36:11,351 - DETROIT - INFO - Speech recognition restarted (PID: 11244).
+2025-04-20 15:36:15,935 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 15:36:15,941 - DETROIT - INFO - Speech recognition restarted (PID: 22624).
+2025-04-20 15:36:19,388 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 15:36:19,389 - DETROIT - ERROR - Error in speech function: run loop already started
+2025-04-20 15:36:19,391 - DETROIT - INFO - State saved successfully
+2025-04-20 15:36:20,393 - DETROIT - INFO - Cleaning up processes. Current PID: 8108
+2025-04-20 15:36:20,408 - DETROIT - INFO - No child processes found
+2025-04-20 15:41:03,684 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 15:41:03,685 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 15:41:03,797 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 15:41:03,797 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 15:41:09,744 - DETROIT - INFO - Running system diagnostics
+2025-04-20 15:41:09,746 - DETROIT - INFO - Starting interactive mode
+2025-04-20 15:41:09,747 - DETROIT - INFO - Starting robust speech recognition script: D:\GIT\DETROIT\EARS\ear_robust.py
+2025-04-20 15:41:09,766 - DETROIT - INFO - Speech recognition process started (PID: 16132).
+2025-04-20 15:41:16,179 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 15:41:16,190 - DETROIT - INFO - Speech recognition restarted (PID: 26100).
+2025-04-20 15:41:21,700 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 15:41:21,704 - DETROIT - INFO - Speech recognition restarted (PID: 27128).
+2025-04-20 15:41:25,640 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 15:41:25,642 - DETROIT - WARNING - Speech engine runtime issue: run loop already started
+2025-04-20 15:41:25,643 - DETROIT - INFO - State saved successfully
+2025-04-20 15:41:26,644 - DETROIT - INFO - Cleaning up processes. Current PID: 26788
+2025-04-20 15:41:26,661 - DETROIT - INFO - No child processes found
+2025-04-20 16:10:23,042 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 16:10:23,044 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 16:10:23,250 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 16:10:23,251 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 16:10:29,741 - DETROIT - INFO - Running system diagnostics
+2025-04-20 16:10:29,742 - DETROIT - INFO - Starting interactive mode
+2025-04-20 16:10:29,742 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-20 16:10:29,774 - DETROIT - INFO - Speech recognition process started (PID: 24364).
+2025-04-20 16:10:54,576 - DETROIT - INFO - Wake word detected: 'unknown'! System activated.
+2025-04-20 16:11:05,558 - DETROIT - INFO - Wake word detected: 'unknown'! System activated.
+2025-04-20 16:11:19,105 - DETROIT - INFO - Wake word detected: 'unknown'! System activated.
+2025-04-20 16:11:27,241 - DETROIT - INFO - Speech recognition process terminated
+2025-04-20 16:11:27,242 - DETROIT - INFO - Communication file removed
+2025-04-20 16:11:27,243 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 16:11:30,337 - DETROIT - INFO - State saved successfully
+2025-04-20 16:11:31,338 - DETROIT - INFO - Cleaning up processes. Current PID: 15180
+2025-04-20 16:11:31,354 - DETROIT - INFO - No child processes found
+2025-04-20 19:17:24,255 - DETROIT - INFO - Sound system initialized successfully
+2025-04-20 19:17:24,323 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 19:17:24,348 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 19:17:24,565 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 19:17:24,566 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 19:17:30,171 - DETROIT - INFO - Running system diagnostics
+2025-04-20 19:17:30,171 - DETROIT - INFO - Starting interactive mode
+2025-04-20 19:17:30,171 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-20 19:17:30,188 - DETROIT - INFO - Speech recognition process started (PID: 16200).
+2025-04-20 19:17:39,168 - DETROIT - INFO - Wake word detected: 'unknown'! System activated.
+2025-04-20 19:18:28,397 - DETROIT - INFO - Wake word detected: 'unknown'! System activated.
+2025-04-20 19:18:30,628 - DETROIT - INFO - Wake word detected: 'unknown'! System activated.
+2025-04-20 19:18:51,927 - DETROIT - INFO - Speech recognition process terminated
+2025-04-20 19:18:51,928 - DETROIT - INFO - Communication file removed
+2025-04-20 19:18:51,928 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 19:18:57,045 - DETROIT - INFO - State saved successfully
+2025-04-20 19:18:58,094 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 19:18:58,094 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 19:18:58,094 - DETROIT - INFO - Cleaning up processes. Current PID: 25348
+2025-04-20 19:18:58,104 - DETROIT - INFO - No child processes found
+2025-04-20 19:19:01,343 - DETROIT - INFO - Terminating speech recognition process (PID: 10232)
+2025-04-20 19:19:01,456 - DETROIT - INFO - Terminating speech recognition process (PID: 13104)
+2025-04-20 19:19:02,061 - DETROIT - INFO - Terminated 2 speech recognition processes
+2025-04-20 19:29:39,606 - DETROIT - INFO - Sound system initialized successfully
+2025-04-20 19:29:39,659 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 19:29:39,661 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 19:29:39,809 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 19:29:39,810 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 19:29:45,145 - DETROIT - INFO - Running system diagnostics
+2025-04-20 19:29:45,147 - DETROIT - INFO - Starting interactive mode
+2025-04-20 19:29:45,147 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-20 19:29:45,171 - DETROIT - INFO - Speech recognition process started (PID: 25228).
+2025-04-20 19:29:53,619 - DETROIT - INFO - Wake word detected: 'unknown'! System activated.
+2025-04-20 19:30:46,579 - DETROIT - INFO - Wake word detected: 'unknown'! System activated.
+2025-04-20 19:30:59,160 - DETROIT - INFO - Wake word detected: 'unknown'! System activated.
+2025-04-20 19:31:22,293 - DETROIT - INFO - Wake word detected: 'unknown'! System activated.
+2025-04-20 19:31:34,345 - DETROIT - INFO - Wake word detected: 'unknown'! System activated.
+2025-04-20 19:31:50,925 - DETROIT - INFO - Wake word detected: 'unknown'! System activated.
+2025-04-20 19:32:13,182 - DETROIT - INFO - Wake word detected: 'unknown'! System activated.
+2025-04-20 19:32:31,008 - DETROIT - INFO - Wake word detected: 'unknown'! System activated.
+2025-04-20 19:32:45,248 - DETROIT - INFO - Speech recognition process terminated
+2025-04-20 19:32:45,251 - DETROIT - INFO - Communication file removed
+2025-04-20 19:32:45,252 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 19:32:50,376 - DETROIT - INFO - State saved successfully
+2025-04-20 19:32:51,414 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 19:32:51,415 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 19:32:51,415 - DETROIT - INFO - Cleaning up processes. Current PID: 15652
+2025-04-20 19:32:51,434 - DETROIT - INFO - No child processes found
+2025-04-20 19:32:54,625 - DETROIT - INFO - Terminating speech recognition process (PID: 20500)
+2025-04-20 19:32:54,776 - DETROIT - INFO - Terminated 1 speech recognition processes
+2025-04-20 19:37:10,251 - DETROIT - INFO - Sound system initialized successfully
+2025-04-20 19:37:10,306 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 19:37:10,307 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 19:37:10,451 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 19:37:10,451 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 19:37:15,787 - DETROIT - INFO - Running system diagnostics
+2025-04-20 19:37:15,787 - DETROIT - INFO - Starting interactive mode
+2025-04-20 19:37:15,789 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-20 19:37:15,804 - DETROIT - INFO - Speech recognition process started (PID: 4872).
+2025-04-20 19:37:22,158 - DETROIT - INFO - Wake word detected: 'unknown'! System activated.
+2025-04-20 19:37:52,259 - DETROIT - INFO - Speech recognition process terminated
+2025-04-20 19:37:52,260 - DETROIT - INFO - Communication file removed
+2025-04-20 19:37:52,261 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 19:37:57,350 - DETROIT - INFO - State saved successfully
+2025-04-20 19:37:58,388 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 19:37:58,389 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 19:37:58,389 - DETROIT - INFO - Cleaning up processes. Current PID: 12424
+2025-04-20 19:37:58,406 - DETROIT - INFO - No child processes found
+2025-04-20 19:38:01,781 - DETROIT - INFO - Terminating speech recognition process (PID: 12316)
+2025-04-20 19:38:02,404 - DETROIT - INFO - Terminated 1 speech recognition processes
+2025-04-20 19:53:43,317 - DETROIT - INFO - Sound system initialized successfully
+2025-04-20 19:53:43,354 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 19:53:43,356 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 19:53:43,522 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 19:53:43,523 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 19:53:49,051 - DETROIT - INFO - Running system diagnostics
+2025-04-20 19:53:49,052 - DETROIT - INFO - Starting interactive mode
+2025-04-20 19:53:49,053 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-20 19:53:49,064 - DETROIT - INFO - Speech recognition process started (PID: 3288).
+2025-04-20 19:54:22,085 - DETROIT - INFO - Wake word detected: 'None'! System activated.
+2025-04-20 19:54:39,348 - DETROIT - ERROR - Error checking speech results: 'SoundManager' object has no attribute 'play_command_sound'
+2025-04-20 19:54:49,366 - DETROIT - ERROR - Error checking speech results: 'SoundManager' object has no attribute 'play_command_sound'
+2025-04-20 19:55:01,945 - DETROIT - ERROR - Error checking speech results: 'SoundManager' object has no attribute 'play_command_sound'
+2025-04-20 19:55:07,207 - DETROIT - INFO - Speech recognition process terminated
+2025-04-20 19:55:07,209 - DETROIT - INFO - Communication file removed
+2025-04-20 19:55:07,217 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 19:55:12,373 - DETROIT - INFO - State saved successfully
+2025-04-20 19:55:13,411 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 19:55:13,411 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 19:55:13,413 - DETROIT - INFO - Cleaning up processes. Current PID: 13576
+2025-04-20 19:55:13,428 - DETROIT - INFO - No child processes found
+2025-04-20 19:55:16,902 - DETROIT - INFO - Terminating speech recognition process (PID: 9012)
+2025-04-20 19:55:17,825 - DETROIT - INFO - Terminated 1 speech recognition processes
+2025-04-20 20:02:21,678 - DETROIT - INFO - Sound system initialized successfully
+2025-04-20 20:02:21,727 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 20:02:21,729 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 20:02:21,876 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 20:02:21,876 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 20:02:27,213 - DETROIT - INFO - Running system diagnostics
+2025-04-20 20:02:27,214 - DETROIT - INFO - Starting interactive mode
+2025-04-20 20:02:27,215 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-20 20:02:27,238 - DETROIT - INFO - Speech recognition process started (PID: 15956).
+2025-04-20 20:02:39,659 - DETROIT - INFO - Wake word detected: 'None'! System activated.
+2025-04-20 20:03:09,573 - DETROIT - INFO - Speech recognition process terminated
+2025-04-20 20:03:09,575 - DETROIT - INFO - Communication file removed
+2025-04-20 20:03:09,575 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 20:03:14,657 - DETROIT - INFO - State saved successfully
+2025-04-20 20:03:15,695 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 20:03:15,695 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 20:03:15,696 - DETROIT - INFO - Cleaning up processes. Current PID: 18932
+2025-04-20 20:03:15,718 - DETROIT - INFO - No child processes found
+2025-04-20 20:03:18,861 - DETROIT - INFO - Terminating speech recognition process (PID: 21604)
+2025-04-20 20:03:18,989 - DETROIT - INFO - Terminated 1 speech recognition processes
+2025-04-20 20:08:01,895 - DETROIT - INFO - Sound system initialized successfully
+2025-04-20 20:08:02,170 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 20:08:02,173 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 20:08:02,415 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 20:08:02,417 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 20:08:07,838 - DETROIT - INFO - Running system diagnostics
+2025-04-20 20:08:07,839 - DETROIT - INFO - Starting interactive mode
+2025-04-20 20:08:07,840 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-20 20:08:07,865 - DETROIT - INFO - Speech recognition process started (PID: 11424).
+2025-04-20 20:08:14,221 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 20:08:14,231 - DETROIT - INFO - Speech recognition restarted (PID: 11800).
+2025-04-20 20:08:19,734 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 20:08:19,738 - DETROIT - INFO - Speech recognition restarted (PID: 26792).
+2025-04-20 20:08:25,190 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 20:08:25,195 - DETROIT - INFO - Speech recognition restarted (PID: 26652).
+2025-04-20 20:08:30,538 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 20:08:35,620 - DETROIT - INFO - State saved successfully
+2025-04-20 20:08:36,658 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 20:08:36,658 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 20:08:36,659 - DETROIT - INFO - Cleaning up processes. Current PID: 2744
+2025-04-20 20:08:36,678 - DETROIT - INFO - No child processes found
+2025-04-20 20:14:07,099 - DETROIT - INFO - Sound system initialized successfully
+2025-04-20 20:14:07,139 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 20:14:07,141 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 20:14:07,299 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 20:14:07,300 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 20:14:12,681 - DETROIT - INFO - Running system diagnostics
+2025-04-20 20:14:12,682 - DETROIT - INFO - Starting interactive mode
+2025-04-20 20:14:12,683 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-20 20:14:12,695 - DETROIT - INFO - Speech recognition process started (PID: 16620).
+2025-04-20 20:14:19,051 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 20:14:19,062 - DETROIT - INFO - Speech recognition restarted (PID: 7708).
+2025-04-20 20:14:23,583 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 20:14:23,583 - DETROIT - WARNING - Speech engine runtime issue: run loop already started
+2025-04-20 20:14:25,585 - DETROIT - INFO - State saved successfully
+2025-04-20 20:14:26,616 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 20:14:26,616 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 20:14:26,616 - DETROIT - INFO - Cleaning up processes. Current PID: 20164
+2025-04-20 20:14:26,628 - DETROIT - INFO - No child processes found
+2025-04-20 20:33:19,119 - DETROIT - INFO - Sound system initialized successfully
+2025-04-20 20:33:19,162 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 20:33:19,164 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 20:33:19,285 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 20:33:19,286 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 20:33:24,883 - DETROIT - INFO - Running system diagnostics
+2025-04-20 20:33:24,884 - DETROIT - INFO - Starting interactive mode
+2025-04-20 20:33:24,884 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-20 20:33:24,915 - DETROIT - INFO - Speech recognition process started (PID: 14736).
+2025-04-20 20:33:31,257 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 20:33:31,268 - DETROIT - INFO - Speech recognition restarted (PID: 24992).
+2025-04-20 20:33:36,616 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 20:33:41,698 - DETROIT - INFO - State saved successfully
+2025-04-20 20:33:42,734 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 20:33:42,734 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 20:33:42,735 - DETROIT - INFO - Cleaning up processes. Current PID: 9112
+2025-04-20 20:33:42,744 - DETROIT - INFO - No child processes found
+2025-04-20 20:38:16,035 - DETROIT - INFO - Sound system initialized successfully
+2025-04-20 20:38:16,072 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 20:38:16,073 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 20:38:16,206 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 20:38:16,206 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 20:38:21,635 - DETROIT - INFO - Running system diagnostics
+2025-04-20 20:38:21,636 - DETROIT - INFO - Starting interactive mode
+2025-04-20 20:38:21,636 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-20 20:38:21,647 - DETROIT - INFO - Speech recognition process started (PID: 24628).
+2025-04-20 20:38:27,997 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 20:38:28,010 - DETROIT - INFO - Speech recognition restarted (PID: 19096).
+2025-04-20 20:38:31,945 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 20:38:31,946 - DETROIT - WARNING - Speech engine runtime issue: run loop already started
+2025-04-20 20:38:33,947 - DETROIT - INFO - State saved successfully
+2025-04-20 20:38:34,981 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 20:38:34,982 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 20:38:34,982 - DETROIT - INFO - Cleaning up processes. Current PID: 19080
+2025-04-20 20:38:34,991 - DETROIT - INFO - No child processes found
+2025-04-20 20:49:03,014 - DETROIT - INFO - Sound system initialized successfully
+2025-04-20 20:49:03,044 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 20:49:03,046 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 20:49:03,168 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 20:49:03,168 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 20:49:08,516 - DETROIT - INFO - Running system diagnostics
+2025-04-20 20:49:08,517 - DETROIT - INFO - Starting interactive mode
+2025-04-20 20:49:08,517 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-20 20:49:08,540 - DETROIT - INFO - Speech recognition process started (PID: 27012).
+2025-04-20 20:49:14,886 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 20:49:14,896 - DETROIT - INFO - Speech recognition restarted (PID: 17744).
+2025-04-20 20:49:17,304 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 20:49:17,305 - DETROIT - WARNING - Speech engine runtime issue: run loop already started
+2025-04-20 20:49:19,307 - DETROIT - INFO - State saved successfully
+2025-04-20 20:49:20,338 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 20:49:20,338 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 20:49:20,339 - DETROIT - INFO - Cleaning up processes. Current PID: 13276
+2025-04-20 20:49:20,349 - DETROIT - INFO - No child processes found
+2025-04-20 21:08:28,483 - DETROIT - INFO - Sound system initialized successfully
+2025-04-20 21:08:28,512 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 21:08:28,514 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 21:08:28,661 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 21:08:28,661 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 21:08:34,064 - DETROIT - INFO - Running system diagnostics
+2025-04-20 21:08:34,066 - DETROIT - INFO - Starting interactive mode
+2025-04-20 21:08:34,066 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-20 21:08:34,077 - DETROIT - INFO - Speech recognition process started (PID: 1772).
+2025-04-20 21:08:40,420 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 21:08:40,429 - DETROIT - INFO - Speech recognition restarted (PID: 19096).
+2025-04-20 21:08:45,878 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 21:08:45,883 - DETROIT - INFO - Speech recognition restarted (PID: 21020).
+2025-04-20 21:08:47,583 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 21:08:47,583 - DETROIT - WARNING - Speech engine runtime issue: run loop already started
+2025-04-20 21:08:49,585 - DETROIT - INFO - State saved successfully
+2025-04-20 21:08:50,616 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 21:08:50,617 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 21:08:50,617 - DETROIT - INFO - Cleaning up processes. Current PID: 25184
+2025-04-20 21:08:50,625 - DETROIT - INFO - No child processes found
+2025-04-20 22:07:35,193 - DETROIT - INFO - Sound system initialized successfully
+2025-04-20 22:07:35,232 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 22:07:35,240 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 22:07:35,393 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 22:07:35,394 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 22:07:40,884 - DETROIT - INFO - Running system diagnostics
+2025-04-20 22:07:40,885 - DETROIT - INFO - Starting interactive mode
+2025-04-20 22:07:40,887 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-20 22:07:40,976 - DETROIT - INFO - Speech recognition library is installed
+2025-04-20 22:07:40,998 - DETROIT - INFO - Speech recognition process started (PID: 23536).
+2025-04-20 22:07:47,412 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 22:07:47,423 - DETROIT - INFO - Speech recognition restarted (PID: 21604).
+2025-04-20 22:07:52,887 - DETROIT - INFO - Speech recognition process has ended unexpectedly.
+2025-04-20 22:07:52,892 - DETROIT - INFO - Speech recognition restarted (PID: 15156).
+2025-04-20 22:07:54,137 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 22:07:54,138 - DETROIT - WARNING - Speech engine runtime issue: run loop already started
+2025-04-20 22:07:56,145 - DETROIT - INFO - State saved successfully
+2025-04-20 22:07:57,177 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 22:07:57,177 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 22:07:57,177 - DETROIT - INFO - Cleaning up processes. Current PID: 23428
+2025-04-20 22:07:57,188 - DETROIT - INFO - No child processes found
+2025-04-20 22:16:07,473 - DETROIT - INFO - Sound system initialized successfully
+2025-04-20 22:16:07,499 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 22:16:07,503 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 22:16:07,594 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 22:16:07,595 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 22:16:12,764 - DETROIT - INFO - Running system diagnostics
+2025-04-20 22:16:12,765 - DETROIT - INFO - Starting interactive mode
+2025-04-20 22:16:12,766 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-20 22:16:12,768 - DETROIT - INFO - All required dependencies are installed
+2025-04-20 22:16:12,778 - DETROIT - INFO - Speech recognition process started (PID: 11892).
+2025-04-20 22:16:15,779 - DETROIT - ERROR - Speech recognition process failed to start. Error: 
+2025-04-20 22:16:15,779 - DETROIT - ERROR - Error in interactive mode: Speech recognition process failed immediately
+2025-04-20 22:16:20,230 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 22:16:25,326 - DETROIT - INFO - State saved successfully
+2025-04-20 22:16:26,358 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 22:16:26,358 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 22:16:26,359 - DETROIT - INFO - Cleaning up processes. Current PID: 15408
+2025-04-20 22:16:26,369 - DETROIT - INFO - No child processes found
+2025-04-20 22:17:31,443 - DETROIT - INFO - Sound system initialized successfully
+2025-04-20 22:17:31,480 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 22:17:31,482 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 22:17:31,637 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 22:17:31,638 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 22:17:37,008 - DETROIT - INFO - Running system diagnostics
+2025-04-20 22:17:37,009 - DETROIT - INFO - Starting interactive mode
+2025-04-20 22:17:37,009 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-20 22:17:37,013 - DETROIT - INFO - All required dependencies are installed
+2025-04-20 22:17:37,019 - DETROIT - INFO - Speech recognition process started (PID: 12756).
+2025-04-20 22:17:40,021 - DETROIT - ERROR - Speech recognition process failed to start. Error: 
+2025-04-20 22:17:40,021 - DETROIT - ERROR - Error in interactive mode: Speech recognition process failed immediately
+2025-04-20 22:17:49,692 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 22:17:54,779 - DETROIT - INFO - State saved successfully
+2025-04-20 22:17:55,809 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 22:17:55,811 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 22:17:55,811 - DETROIT - INFO - Cleaning up processes. Current PID: 13944
+2025-04-20 22:17:55,826 - DETROIT - INFO - No child processes found
+2025-04-20 22:28:41,288 - DETROIT - INFO - Sound system initialized successfully
+2025-04-20 22:28:41,310 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-20 22:28:41,311 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-20 22:28:41,373 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-20 22:28:41,373 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-20 22:28:46,481 - DETROIT - INFO - Running system diagnostics
+2025-04-20 22:28:46,482 - DETROIT - INFO - Starting interactive mode
+2025-04-20 22:28:46,482 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-20 22:28:46,484 - DETROIT - INFO - All required dependencies are installed
+2025-04-20 22:28:46,491 - DETROIT - INFO - Speech recognition process started (PID: 8100).
+2025-04-20 22:28:49,493 - DETROIT - ERROR - Speech recognition process failed to start. Error: 
+2025-04-20 22:28:49,493 - DETROIT - ERROR - Error in interactive mode: Speech recognition process failed immediately
+2025-04-20 22:28:49,494 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-20 22:28:54,609 - DETROIT - INFO - State saved successfully
+2025-04-20 22:28:55,645 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 22:28:55,645 - DETROIT - INFO - Sound system cleaned up
+2025-04-20 22:28:55,645 - DETROIT - INFO - Cleaning up processes. Current PID: 18340
+2025-04-20 22:28:55,653 - DETROIT - INFO - No child processes found
+2025-04-21 09:32:14,757 - DETROIT - INFO - Sound system initialized successfully
+2025-04-21 09:32:14,786 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-21 09:32:14,790 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-21 09:32:14,911 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-21 09:32:14,912 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-21 09:32:35,711 - DETROIT - INFO - Sound system initialized successfully
+2025-04-21 09:32:35,739 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-21 09:32:35,740 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-21 09:32:35,821 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-21 09:32:35,822 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-21 09:32:41,130 - DETROIT - INFO - Running system diagnostics
+2025-04-21 09:32:41,131 - DETROIT - INFO - Starting interactive mode
+2025-04-21 09:32:41,131 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-21 09:32:41,134 - DETROIT - INFO - All required dependencies are installed
+2025-04-21 09:32:41,146 - DETROIT - INFO - Speech recognition process started (PID: 12356).
+2025-04-21 09:32:44,147 - DETROIT - ERROR - Speech recognition process failed to start. Error: 
+2025-04-21 09:32:44,148 - DETROIT - ERROR - Error in interactive mode: Speech recognition process failed immediately
+2025-04-21 09:33:12,531 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-21 09:33:17,617 - DETROIT - INFO - State saved successfully
+2025-04-21 09:33:18,653 - DETROIT - INFO - Sound system cleaned up
+2025-04-21 09:33:18,653 - DETROIT - INFO - Sound system cleaned up
+2025-04-21 09:33:18,653 - DETROIT - INFO - Cleaning up processes. Current PID: 24396
+2025-04-21 09:33:18,662 - DETROIT - INFO - No child processes found
+2025-04-21 09:48:18,780 - DETROIT - INFO - Sound system initialized successfully
+2025-04-21 09:48:18,878 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-21 09:48:18,883 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-21 09:48:19,033 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-21 09:48:19,034 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-21 09:48:24,969 - DETROIT - INFO - Running system diagnostics
+2025-04-21 09:48:24,970 - DETROIT - INFO - Starting interactive mode
+2025-04-21 09:48:24,970 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-21 09:48:24,977 - DETROIT - INFO - All required dependencies are installed
+2025-04-21 09:48:24,993 - DETROIT - INFO - Speech recognition process started (PID: 28456).
+2025-04-21 09:48:27,995 - DETROIT - ERROR - Speech recognition process failed to start. Error: 
+2025-04-21 09:48:27,997 - DETROIT - ERROR - Error in interactive mode: Speech recognition process failed immediately
+2025-04-21 09:51:59,725 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-21 09:52:04,882 - DETROIT - INFO - State saved successfully
+2025-04-21 09:52:05,931 - DETROIT - INFO - Sound system cleaned up
+2025-04-21 09:52:05,932 - DETROIT - INFO - Sound system cleaned up
+2025-04-21 09:52:05,935 - DETROIT - INFO - Cleaning up processes. Current PID: 22468
+2025-04-21 09:52:05,967 - DETROIT - INFO - No child processes found
+2025-04-21 09:52:56,458 - DETROIT - INFO - Sound system initialized successfully
+2025-04-21 09:52:56,551 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-21 09:52:56,558 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-21 09:52:56,708 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-21 09:52:56,709 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-21 09:53:02,423 - DETROIT - INFO - Running system diagnostics
+2025-04-21 09:53:02,425 - DETROIT - INFO - Starting interactive mode
+2025-04-21 09:53:02,426 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-21 09:53:02,439 - DETROIT - INFO - All required dependencies are installed
+2025-04-21 09:53:02,470 - DETROIT - INFO - Speech recognition process started (PID: 10556).
+2025-04-21 09:53:05,472 - DETROIT - ERROR - Speech recognition process failed to start. Error: 
+2025-04-21 09:53:05,474 - DETROIT - ERROR - Error in interactive mode: Speech recognition process failed immediately
+2025-04-21 09:53:07,906 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-21 09:53:13,013 - DETROIT - INFO - State saved successfully
+2025-04-21 09:53:14,064 - DETROIT - INFO - Sound system cleaned up
+2025-04-21 09:53:14,065 - DETROIT - INFO - Sound system cleaned up
+2025-04-21 09:53:14,067 - DETROIT - INFO - Cleaning up processes. Current PID: 11684
+2025-04-21 09:53:14,116 - DETROIT - INFO - No child processes found
+2025-04-21 09:55:37,512 - DETROIT - INFO - Sound system initialized successfully
+2025-04-21 09:55:37,589 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-21 09:55:37,590 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-21 09:55:37,715 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-21 09:55:37,715 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-21 09:55:42,912 - DETROIT - INFO - Running system diagnostics
+2025-04-21 09:55:42,914 - DETROIT - INFO - Starting interactive mode
+2025-04-21 09:55:42,915 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-21 09:55:42,927 - DETROIT - INFO - All required dependencies are installed
+2025-04-21 09:55:42,967 - DETROIT - INFO - Speech recognition process started (PID: 6616).
+2025-04-21 09:55:45,971 - DETROIT - ERROR - Speech recognition process failed to start. Error: 
+2025-04-21 09:55:45,972 - DETROIT - ERROR - Error in interactive mode: Speech recognition process failed immediately
+2025-04-21 09:55:52,633 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-21 09:55:57,737 - DETROIT - INFO - State saved successfully
+2025-04-21 09:55:58,787 - DETROIT - INFO - Sound system cleaned up
+2025-04-21 09:55:58,788 - DETROIT - INFO - Sound system cleaned up
+2025-04-21 09:55:58,789 - DETROIT - INFO - Cleaning up processes. Current PID: 12368
+2025-04-21 09:55:58,825 - DETROIT - INFO - No child processes found
+2025-04-21 10:06:33,917 - DETROIT - INFO - Sound system initialized successfully
+2025-04-21 10:06:34,140 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-21 10:06:34,200 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-21 10:06:34,546 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-21 10:06:34,547 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-21 10:06:40,938 - DETROIT - INFO - Running system diagnostics
+2025-04-21 10:06:40,942 - DETROIT - INFO - Starting interactive mode
+2025-04-21 10:06:40,943 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-21 10:06:40,963 - DETROIT - INFO - All required dependencies are installed
+2025-04-21 10:06:41,291 - DETROIT - INFO - PyAudio test successful
+2025-04-21 10:06:41,304 - DETROIT - INFO - Speech recognition process started (PID: 4104).
+2025-04-21 10:06:44,306 - DETROIT - ERROR - Speech recognition process failed to start. Error: STDOUT: 
+STDERR: 
+2025-04-21 10:06:44,308 - DETROIT - ERROR - Error in interactive mode: Speech recognition process failed immediately
+2025-04-21 10:06:46,435 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-21 10:06:51,638 - DETROIT - INFO - State saved successfully
+2025-04-21 10:06:52,686 - DETROIT - INFO - Sound system cleaned up
+2025-04-21 10:06:52,686 - DETROIT - INFO - Sound system cleaned up
+2025-04-21 10:06:52,686 - DETROIT - INFO - Cleaning up processes. Current PID: 27172
+2025-04-21 10:06:52,711 - DETROIT - INFO - No child processes found
+2025-04-21 10:32:22,611 - DETROIT - INFO - Sound system initialized successfully
+2025-04-21 10:32:22,651 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-21 10:32:22,653 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-21 10:32:22,824 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-21 10:32:22,826 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-21 10:32:28,625 - DETROIT - INFO - Running system diagnostics
+2025-04-21 10:32:28,627 - DETROIT - INFO - Starting interactive mode
+2025-04-21 10:32:28,628 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-21 10:32:28,639 - DETROIT - INFO - All required dependencies are installed
+2025-04-21 10:32:31,644 - DETROIT - ERROR - Error in interactive mode: cannot access local variable 'process' where it is not associated with a value
+2025-04-21 10:32:36,401 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-21 10:32:41,518 - DETROIT - INFO - State saved successfully
+2025-04-21 10:32:42,570 - DETROIT - INFO - Sound system cleaned up
+2025-04-21 10:32:42,571 - DETROIT - INFO - Sound system cleaned up
+2025-04-21 10:32:42,574 - DETROIT - INFO - Cleaning up processes. Current PID: 14600
+2025-04-21 10:32:42,617 - DETROIT - INFO - No child processes found
+2025-04-21 10:35:35,553 - DETROIT - INFO - Sound system initialized successfully
+2025-04-21 10:35:35,581 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-21 10:35:35,583 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-21 10:35:35,693 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-21 10:35:35,693 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-21 10:35:40,866 - DETROIT - INFO - Running system diagnostics
+2025-04-21 10:35:40,868 - DETROIT - INFO - Starting interactive mode
+2025-04-21 10:35:40,869 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-21 10:35:40,871 - DETROIT - INFO - All required dependencies are installed
+2025-04-21 10:35:43,872 - DETROIT - ERROR - Error in interactive mode: cannot access local variable 'process' where it is not associated with a value
+2025-04-21 10:35:59,045 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-21 10:36:04,131 - DETROIT - INFO - State saved successfully
+2025-04-21 10:36:05,170 - DETROIT - INFO - Sound system cleaned up
+2025-04-21 10:36:05,170 - DETROIT - INFO - Sound system cleaned up
+2025-04-21 10:36:05,171 - DETROIT - INFO - Cleaning up processes. Current PID: 2944
+2025-04-21 10:36:05,184 - DETROIT - INFO - No child processes found
+2025-04-21 10:42:02,708 - DETROIT - INFO - Sound system initialized successfully
+2025-04-21 10:42:02,743 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-21 10:42:02,745 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-21 10:42:02,892 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-21 10:42:02,893 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-21 10:42:08,384 - DETROIT - INFO - Running system diagnostics
+2025-04-21 10:42:08,386 - DETROIT - INFO - Starting interactive mode
+2025-04-21 10:42:08,386 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-21 10:42:08,390 - DETROIT - INFO - All required dependencies are installed
+2025-04-21 10:42:08,781 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-21 10:42:09,287 - DETROIT - INFO - Speech recognition process started (PID: 23848).
+2025-04-21 10:42:12,288 - DETROIT - ERROR - Speech recognition process failed to start. Error: STDOUT: 
+STDERR: 
+2025-04-21 10:42:12,289 - DETROIT - ERROR - Error in interactive mode: Speech recognition process failed immediately
+2025-04-21 10:42:16,297 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-21 10:42:21,381 - DETROIT - INFO - State saved successfully
+2025-04-21 10:42:22,416 - DETROIT - INFO - Sound system cleaned up
+2025-04-21 10:42:22,416 - DETROIT - INFO - Sound system cleaned up
+2025-04-21 10:42:22,417 - DETROIT - INFO - Cleaning up processes. Current PID: 12328
+2025-04-21 10:42:22,433 - DETROIT - INFO - No child processes found
+2025-04-22 21:00:55,322 - DETROIT - INFO - Sound system initialized successfully
+2025-04-22 21:00:55,466 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-22 21:00:55,497 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-22 21:00:55,683 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-22 21:00:55,685 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-22 21:01:01,674 - DETROIT - INFO - Running system diagnostics
+2025-04-22 21:01:01,677 - DETROIT - INFO - Starting interactive mode
+2025-04-22 21:01:01,678 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-22 21:01:01,689 - DETROIT - INFO - All required dependencies are installed
+2025-04-22 21:01:02,586 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-22 21:01:03,245 - DETROIT - INFO - Speech recognition process started (PID: 19164).
+2025-04-22 21:01:27,759 - DETROIT - INFO - Wake word detected: 'detroit'! System activated.
+2025-04-22 21:02:14,610 - DETROIT - INFO - Speech recognition process terminated
+2025-04-22 21:02:14,611 - DETROIT - INFO - Communication file removed
+2025-04-22 21:02:14,615 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-22 21:02:19,845 - DETROIT - INFO - State saved successfully
+2025-04-22 21:02:20,929 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:02:20,930 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:02:20,933 - DETROIT - INFO - Cleaning up processes. Current PID: 15004
+2025-04-22 21:02:20,971 - DETROIT - INFO - No child processes found
+2025-04-22 21:02:58,705 - DETROIT - INFO - Sound system initialized successfully
+2025-04-22 21:02:58,799 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-22 21:02:58,803 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-22 21:02:59,024 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-22 21:02:59,026 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-22 21:03:04,298 - DETROIT - INFO - Running system diagnostics
+2025-04-22 21:03:04,300 - DETROIT - INFO - Starting interactive mode
+2025-04-22 21:03:04,301 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-22 21:03:04,309 - DETROIT - INFO - All required dependencies are installed
+2025-04-22 21:03:05,066 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-22 21:03:05,848 - DETROIT - INFO - Speech recognition process started (PID: 14404).
+2025-04-22 21:03:34,288 - DETROIT - INFO - Wake word detected: 'android'! System activated.
+2025-04-22 21:03:44,489 - DETROIT - INFO - Speech recognition process terminated
+2025-04-22 21:03:44,490 - DETROIT - INFO - Communication file removed
+2025-04-22 21:03:44,493 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-22 21:03:49,650 - DETROIT - INFO - State saved successfully
+2025-04-22 21:03:50,696 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:03:50,696 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:03:50,697 - DETROIT - INFO - Cleaning up processes. Current PID: 6180
+2025-04-22 21:03:50,714 - DETROIT - INFO - No child processes found
+2025-04-22 21:04:06,024 - DETROIT - INFO - Sound system initialized successfully
+2025-04-22 21:04:06,088 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-22 21:04:06,090 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-22 21:04:06,255 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-22 21:04:06,255 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-22 21:04:11,582 - DETROIT - INFO - Running system diagnostics
+2025-04-22 21:04:11,583 - DETROIT - INFO - Starting interactive mode
+2025-04-22 21:04:11,583 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-22 21:04:11,588 - DETROIT - INFO - All required dependencies are installed
+2025-04-22 21:04:11,942 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-22 21:04:12,437 - DETROIT - INFO - Speech recognition process started (PID: 20700).
+2025-04-22 21:04:26,365 - DETROIT - INFO - Wake word detected: 'become human'! System activated.
+2025-04-22 21:04:44,359 - DETROIT - INFO - Speech recognition process terminated
+2025-04-22 21:04:44,360 - DETROIT - INFO - Communication file removed
+2025-04-22 21:04:44,362 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-22 21:04:49,515 - DETROIT - INFO - State saved successfully
+2025-04-22 21:04:50,567 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:04:50,567 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:04:50,568 - DETROIT - INFO - Cleaning up processes. Current PID: 18200
+2025-04-22 21:04:50,582 - DETROIT - INFO - No child processes found
+2025-04-22 21:16:21,045 - DETROIT - INFO - Sound system initialized successfully
+2025-04-22 21:16:21,241 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-22 21:16:21,270 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-22 21:16:21,518 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-22 21:16:21,519 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-22 21:16:27,077 - DETROIT - INFO - Running system diagnostics
+2025-04-22 21:16:27,078 - DETROIT - INFO - Starting interactive mode
+2025-04-22 21:16:27,078 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-22 21:16:27,082 - DETROIT - INFO - All required dependencies are installed
+2025-04-22 21:16:27,341 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-22 21:16:27,858 - DETROIT - INFO - Speech recognition process started (PID: 1652).
+2025-04-22 21:17:08,794 - DETROIT - INFO - Wake word detected: 'become human'! System activated.
+2025-04-22 21:18:31,830 - DETROIT - INFO - Speech recognition process terminated
+2025-04-22 21:18:31,833 - DETROIT - INFO - Communication file removed
+2025-04-22 21:18:31,835 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-22 21:18:37,026 - DETROIT - INFO - State saved successfully
+2025-04-22 21:18:38,079 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:18:38,080 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:18:38,082 - DETROIT - INFO - Cleaning up processes. Current PID: 4780
+2025-04-22 21:18:38,116 - DETROIT - INFO - No child processes found
+2025-04-22 21:25:31,817 - DETROIT - INFO - Sound system initialized successfully
+2025-04-22 21:25:31,871 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-22 21:25:31,872 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-22 21:25:32,022 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-22 21:25:32,023 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-22 21:25:41,295 - DETROIT - INFO - Running system diagnostics
+2025-04-22 21:25:41,299 - DETROIT - INFO - Starting interactive mode
+2025-04-22 21:25:41,301 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-22 21:25:41,311 - DETROIT - INFO - All required dependencies are installed
+2025-04-22 21:25:41,990 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-22 21:25:42,941 - DETROIT - INFO - Speech recognition process started (PID: 10148).
+2025-04-22 21:25:48,363 - DETROIT - INFO - Speech recognition process terminated
+2025-04-22 21:25:48,364 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-22 21:25:48,365 - DETROIT - WARNING - Speech engine runtime issue: run loop already started
+2025-04-22 21:25:50,371 - DETROIT - INFO - State saved successfully
+2025-04-22 21:25:51,417 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:25:51,418 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:25:51,419 - DETROIT - INFO - Cleaning up processes. Current PID: 16724
+2025-04-22 21:25:51,442 - DETROIT - INFO - No child processes found
+2025-04-22 21:25:56,773 - DETROIT - INFO - Sound system initialized successfully
+2025-04-22 21:25:56,821 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-22 21:25:56,824 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-22 21:25:57,138 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-22 21:25:57,139 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-22 21:26:06,599 - DETROIT - INFO - Running system diagnostics
+2025-04-22 21:26:06,600 - DETROIT - INFO - Starting interactive mode
+2025-04-22 21:26:06,602 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-22 21:26:06,611 - DETROIT - INFO - All required dependencies are installed
+2025-04-22 21:26:07,060 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-22 21:26:07,546 - DETROIT - INFO - Speech recognition process started (PID: 20028).
+2025-04-22 21:26:34,976 - DETROIT - INFO - Wake word detected: 'become human'! System activated.
+2025-04-22 21:27:11,023 - DETROIT - WARNING - Speech recognition process has ended unexpectedly (restart attempt 1/3).
+2025-04-22 21:27:12,030 - DETROIT - INFO - Speech recognition restarted (PID: 20204).
+2025-04-22 21:27:31,131 - DETROIT - WARNING - Speech recognition process has ended unexpectedly (restart attempt 2/3).
+2025-04-22 21:27:32,143 - DETROIT - INFO - Speech recognition restarted (PID: 12800).
+2025-04-22 21:27:38,234 - DETROIT - WARNING - Speech recognition process has ended unexpectedly (restart attempt 3/3).
+2025-04-22 21:27:38,234 - DETROIT - ERROR - Too many restart attempts (3). Switching to fallback method.
+2025-04-22 21:27:39,720 - DETROIT - INFO - Communication file removed
+2025-04-22 21:27:39,723 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-22 21:27:39,723 - DETROIT - WARNING - Speech engine runtime issue: run loop already started
+2025-04-22 21:27:41,728 - DETROIT - INFO - State saved successfully
+2025-04-22 21:27:42,768 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:27:42,769 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:27:42,770 - DETROIT - INFO - Cleaning up processes. Current PID: 13176
+2025-04-22 21:27:42,794 - DETROIT - INFO - No child processes found
+2025-04-22 21:29:27,679 - DETROIT - INFO - Sound system initialized successfully
+2025-04-22 21:29:27,750 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-22 21:29:27,752 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-22 21:29:27,965 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-22 21:29:27,966 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-22 21:29:37,645 - DETROIT - INFO - Running system diagnostics
+2025-04-22 21:29:37,648 - DETROIT - INFO - Starting interactive mode
+2025-04-22 21:29:37,650 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-22 21:29:37,661 - DETROIT - INFO - All required dependencies are installed
+2025-04-22 21:29:38,313 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-22 21:29:39,292 - DETROIT - INFO - Speech recognition process started (PID: 2940).
+2025-04-22 21:29:59,679 - DETROIT - INFO - Wake word detected: 'i am alive'! System activated.
+2025-04-22 21:30:17,750 - DETROIT - WARNING - Speech recognition process has ended unexpectedly (restart attempt 1/3).
+2025-04-22 21:30:18,762 - DETROIT - INFO - Speech recognition restarted (PID: 21696).
+2025-04-22 21:30:24,345 - DETROIT - WARNING - Speech recognition process has ended unexpectedly (restart attempt 2/3).
+2025-04-22 21:30:25,365 - DETROIT - INFO - Speech recognition restarted (PID: 1644).
+2025-04-22 21:30:30,900 - DETROIT - WARNING - Speech recognition process has ended unexpectedly (restart attempt 3/3).
+2025-04-22 21:30:30,901 - DETROIT - ERROR - Too many restart attempts (3). Switching to fallback method.
+2025-04-22 21:30:32,833 - DETROIT - INFO - Communication file removed
+2025-04-22 21:30:32,834 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-22 21:30:32,835 - DETROIT - WARNING - Speech engine runtime issue: run loop already started
+2025-04-22 21:30:34,840 - DETROIT - INFO - State saved successfully
+2025-04-22 21:30:35,872 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:30:35,873 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:30:35,873 - DETROIT - INFO - Cleaning up processes. Current PID: 6716
+2025-04-22 21:30:35,885 - DETROIT - INFO - No child processes found
+2025-04-22 21:30:45,259 - DETROIT - INFO - Sound system initialized successfully
+2025-04-22 21:30:45,348 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-22 21:30:45,351 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-22 21:30:45,648 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-22 21:30:45,649 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-22 21:30:55,077 - DETROIT - INFO - Running system diagnostics
+2025-04-22 21:30:55,078 - DETROIT - INFO - Starting interactive mode
+2025-04-22 21:30:55,080 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-22 21:30:55,089 - DETROIT - INFO - All required dependencies are installed
+2025-04-22 21:30:55,543 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-22 21:30:56,144 - DETROIT - INFO - Speech recognition process started (PID: 18460).
+2025-04-22 21:31:19,046 - DETROIT - INFO - Wake word detected: 'android'! System activated.
+2025-04-22 21:32:33,402 - DETROIT - INFO - Speech recognition process terminated
+2025-04-22 21:32:33,404 - DETROIT - INFO - Communication file removed
+2025-04-22 21:32:33,408 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-22 21:32:33,409 - DETROIT - WARNING - Speech engine runtime issue: run loop already started
+2025-04-22 21:32:35,414 - DETROIT - INFO - State saved successfully
+2025-04-22 21:32:36,461 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:32:36,461 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:32:36,462 - DETROIT - INFO - Cleaning up processes. Current PID: 18308
+2025-04-22 21:32:36,485 - DETROIT - INFO - No child processes found
+2025-04-22 21:36:00,530 - DETROIT - INFO - Sound system initialized successfully
+2025-04-22 21:36:00,644 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-22 21:36:00,647 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-22 21:36:00,918 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-22 21:36:00,919 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-22 21:36:10,136 - DETROIT - INFO - Running system diagnostics
+2025-04-22 21:36:10,138 - DETROIT - INFO - Starting interactive mode
+2025-04-22 21:36:10,139 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-22 21:36:10,149 - DETROIT - INFO - All required dependencies are installed
+2025-04-22 21:36:10,780 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-22 21:36:11,620 - DETROIT - INFO - Speech recognition process started (PID: 12384).
+2025-04-22 21:37:03,043 - DETROIT - INFO - Wake word detected: 'become human'! System activated.
+2025-04-22 21:37:18,691 - DETROIT - INFO - Speech recognition process terminated
+2025-04-22 21:37:18,692 - DETROIT - INFO - Communication file removed
+2025-04-22 21:37:18,693 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-22 21:37:26,922 - DETROIT - INFO - State saved successfully
+2025-04-22 21:37:27,964 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:37:27,965 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:37:27,966 - DETROIT - INFO - Cleaning up processes. Current PID: 19724
+2025-04-22 21:37:27,993 - DETROIT - INFO - No child processes found
+2025-04-22 21:50:24,806 - DETROIT - INFO - Sound system initialized successfully
+2025-04-22 21:50:24,871 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-22 21:50:24,874 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-22 21:50:25,051 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-22 21:50:25,051 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-22 21:50:34,374 - DETROIT - INFO - Running system diagnostics
+2025-04-22 21:50:34,376 - DETROIT - INFO - Starting interactive mode
+2025-04-22 21:50:34,378 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-22 21:50:34,386 - DETROIT - INFO - All required dependencies are installed
+2025-04-22 21:50:34,968 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-22 21:50:35,646 - DETROIT - INFO - Speech recognition process started (PID: 23100).
+2025-04-22 21:50:50,029 - DETROIT - INFO - Wake word detected: 'android'! System activated.
+2025-04-22 21:50:52,236 - DETROIT - INFO - Speech recognition process terminated
+2025-04-22 21:50:52,238 - DETROIT - INFO - Communication file removed
+2025-04-22 21:50:52,241 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-22 21:50:52,242 - DETROIT - WARNING - Speech engine runtime issue: run loop already started
+2025-04-22 21:50:54,247 - DETROIT - INFO - State saved successfully
+2025-04-22 21:50:55,292 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:50:55,292 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:50:55,293 - DETROIT - INFO - Cleaning up processes. Current PID: 12816
+2025-04-22 21:50:55,315 - DETROIT - INFO - No child processes found
+2025-04-22 21:51:09,965 - DETROIT - INFO - Sound system initialized successfully
+2025-04-22 21:51:10,027 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-22 21:51:10,030 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-22 21:51:10,266 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-22 21:51:10,267 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-22 21:51:20,509 - DETROIT - INFO - Running system diagnostics
+2025-04-22 21:51:20,512 - DETROIT - INFO - Starting interactive mode
+2025-04-22 21:51:20,516 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-22 21:51:20,527 - DETROIT - INFO - All required dependencies are installed
+2025-04-22 21:51:21,540 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-22 21:51:22,326 - DETROIT - INFO - Speech recognition process started (PID: 9492).
+2025-04-22 21:51:49,234 - DETROIT - INFO - Wake word detected: 'detroit'! System activated.
+2025-04-22 21:52:02,455 - DETROIT - WARNING - Speech recognition process has ended unexpectedly (restart attempt 1/3).
+2025-04-22 21:52:03,468 - DETROIT - INFO - Speech recognition restarted (PID: 18804).
+2025-04-22 21:52:09,043 - DETROIT - WARNING - Speech recognition process has ended unexpectedly (restart attempt 2/3).
+2025-04-22 21:52:10,014 - DETROIT - INFO - Communication file removed
+2025-04-22 21:52:10,017 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-22 21:52:18,997 - DETROIT - INFO - State saved successfully
+2025-04-22 21:52:20,040 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:52:20,041 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:52:20,042 - DETROIT - INFO - Cleaning up processes. Current PID: 16172
+2025-04-22 21:52:20,070 - DETROIT - INFO - No child processes found
+2025-04-22 21:57:29,205 - DETROIT - INFO - Sound system initialized successfully
+2025-04-22 21:57:29,248 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-22 21:57:29,251 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-22 21:57:29,421 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-22 21:57:29,422 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-22 21:57:40,851 - DETROIT - INFO - Running system diagnostics
+2025-04-22 21:57:40,854 - DETROIT - INFO - Starting interactive mode
+2025-04-22 21:57:40,858 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-22 21:57:40,877 - DETROIT - INFO - All required dependencies are installed
+2025-04-22 21:57:41,511 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-22 21:57:42,192 - DETROIT - INFO - Speech recognition process started (PID: 8632).
+2025-04-22 21:58:03,598 - DETROIT - INFO - Wake word detected: 'android'! System activated.
+2025-04-22 21:59:40,238 - DETROIT - INFO - Speech recognition process terminated
+2025-04-22 21:59:40,239 - DETROIT - INFO - Communication file removed
+2025-04-22 21:59:40,240 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-22 21:59:49,964 - DETROIT - INFO - State saved successfully
+2025-04-22 21:59:51,009 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:59:51,011 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 21:59:51,013 - DETROIT - INFO - Cleaning up processes. Current PID: 3676
+2025-04-22 21:59:51,037 - DETROIT - INFO - No child processes found
+2025-04-22 22:03:38,450 - DETROIT - INFO - Sound system initialized successfully
+2025-04-22 22:03:38,484 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-22 22:03:38,485 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-22 22:03:38,651 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-22 22:03:38,653 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-22 22:03:48,912 - DETROIT - INFO - Running system diagnostics
+2025-04-22 22:03:48,916 - DETROIT - INFO - Starting interactive mode
+2025-04-22 22:03:48,917 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-22 22:03:48,928 - DETROIT - INFO - All required dependencies are installed
+2025-04-22 22:03:49,683 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-22 22:03:50,202 - DETROIT - INFO - Speech recognition process started (PID: 11484).
+2025-04-22 22:04:40,704 - DETROIT - INFO - Wake word detected: 'detroit'! System activated.
+2025-04-22 22:04:57,478 - DETROIT - WARNING - Speech recognition process has ended unexpectedly (restart attempt 1/3).
+2025-04-22 22:04:58,490 - DETROIT - INFO - Speech recognition restarted (PID: 6980).
+2025-04-22 22:05:13,537 - DETROIT - INFO - Speech recognition process terminated
+2025-04-22 22:05:13,543 - DETROIT - INFO - Communication file removed
+2025-04-22 22:05:13,544 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-22 22:05:21,808 - DETROIT - INFO - State saved successfully
+2025-04-22 22:05:22,853 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 22:05:22,854 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 22:05:22,855 - DETROIT - INFO - Cleaning up processes. Current PID: 17804
+2025-04-22 22:05:22,883 - DETROIT - INFO - No child processes found
+2025-04-22 22:10:47,869 - DETROIT - INFO - Sound system initialized successfully
+2025-04-22 22:10:47,917 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-22 22:10:47,919 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-22 22:10:48,058 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-22 22:10:48,060 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-22 22:10:55,904 - DETROIT - INFO - Running system diagnostics
+2025-04-22 22:10:55,908 - DETROIT - INFO - Starting interactive mode
+2025-04-22 22:10:55,909 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-22 22:10:55,918 - DETROIT - INFO - All required dependencies are installed
+2025-04-22 22:10:56,544 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-22 22:10:57,102 - DETROIT - INFO - Speech recognition process started (PID: 15452).
+2025-04-22 22:11:17,014 - DETROIT - INFO - Wake word detected: 'detroit'! System activated.
+2025-04-22 22:11:24,274 - DETROIT - WARNING - Speech recognition process has ended unexpectedly (restart attempt 1/3).
+2025-04-22 22:11:25,288 - DETROIT - INFO - Speech recognition restarted (PID: 19024).
+2025-04-22 22:11:33,332 - DETROIT - WARNING - Speech recognition process has ended unexpectedly (restart attempt 2/3).
+2025-04-22 22:11:34,344 - DETROIT - INFO - Speech recognition restarted (PID: 11972).
+2025-04-22 22:11:34,744 - DETROIT - INFO - Speech recognition process terminated
+2025-04-22 22:11:34,746 - DETROIT - INFO - Communication file removed
+2025-04-22 22:11:34,747 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-22 22:11:34,748 - DETROIT - WARNING - Speech engine runtime issue: run loop already started
+2025-04-22 22:11:36,753 - DETROIT - INFO - State saved successfully
+2025-04-22 22:11:37,797 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 22:11:37,798 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 22:11:37,799 - DETROIT - INFO - Cleaning up processes. Current PID: 20032
+2025-04-22 22:11:37,822 - DETROIT - INFO - No child processes found
+2025-04-22 22:20:04,955 - DETROIT - INFO - Sound system initialized successfully
+2025-04-22 22:20:05,042 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-22 22:20:05,045 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-22 22:20:05,294 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-22 22:20:05,294 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-22 22:20:14,837 - DETROIT - INFO - Running system diagnostics
+2025-04-22 22:20:14,839 - DETROIT - INFO - Starting interactive mode
+2025-04-22 22:20:14,841 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-22 22:20:14,849 - DETROIT - INFO - All required dependencies are installed
+2025-04-22 22:20:15,546 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-22 22:20:16,287 - DETROIT - INFO - Speech recognition process started (PID: 14644).
+2025-04-22 22:20:38,678 - DETROIT - INFO - Wake word detected: 'detroit'! System activated.
+2025-04-22 22:20:45,823 - DETROIT - WARNING - Speech recognition process has ended unexpectedly (restart attempt 1/3).
+2025-04-22 22:20:46,832 - DETROIT - INFO - Speech recognition restarted (PID: 4364).
+2025-04-22 22:20:56,364 - DETROIT - WARNING - Speech recognition process has ended unexpectedly (restart attempt 2/3).
+2025-04-22 22:20:57,375 - DETROIT - INFO - Speech recognition restarted (PID: 4376).
+2025-04-22 22:21:06,442 - DETROIT - WARNING - Speech recognition process has ended unexpectedly (restart attempt 3/3).
+2025-04-22 22:21:06,444 - DETROIT - ERROR - Too many restart attempts (3). Switching to fallback method.
+2025-04-22 22:21:12,208 - DETROIT - INFO - Communication file removed
+2025-04-22 22:21:12,210 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-22 22:21:20,217 - DETROIT - INFO - State saved successfully
+2025-04-22 22:21:21,305 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 22:21:21,454 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 22:21:21,533 - DETROIT - INFO - Cleaning up processes. Current PID: 15304
+2025-04-22 22:21:21,615 - DETROIT - INFO - No child processes found
+2025-04-22 22:23:51,893 - DETROIT - INFO - Sound system initialized successfully
+2025-04-22 22:23:51,972 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-22 22:23:51,974 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-22 22:23:52,265 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-22 22:23:52,266 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-22 22:24:00,761 - DETROIT - INFO - Running system diagnostics
+2025-04-22 22:24:00,763 - DETROIT - INFO - Starting interactive mode
+2025-04-22 22:24:00,764 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-22 22:24:00,774 - DETROIT - INFO - All required dependencies are installed
+2025-04-22 22:24:01,490 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-22 22:24:02,346 - DETROIT - INFO - Speech recognition process started (PID: 22604).
+2025-04-22 22:24:19,248 - DETROIT - INFO - Wake word detected: 'android'! System activated.
+2025-04-22 22:24:26,901 - DETROIT - WARNING - Speech recognition process has ended unexpectedly. Shutting down.
+2025-04-22 22:24:31,667 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 22:24:31,667 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 22:24:31,669 - DETROIT - INFO - Cleaning up processes. Current PID: 5812
+2025-04-22 22:24:31,694 - DETROIT - INFO - No child processes found
+2025-04-22 22:24:33,703 - DETROIT - INFO - Terminating system with exit code 0
+2025-04-22 22:24:38,627 - DETROIT - INFO - State saved successfully
+2025-04-22 22:24:38,629 - DETROIT - INFO - Communication file removed
+2025-04-22 22:24:38,630 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-22 22:24:44,928 - DETROIT - ERROR - Error playing sound: mixer not initialized
+2025-04-22 22:24:44,930 - DETROIT - INFO - State saved successfully
+2025-04-22 22:24:45,932 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 22:24:45,933 - DETROIT - INFO - Cleaning up processes. Current PID: 5812
+2025-04-22 22:24:45,958 - DETROIT - INFO - No child processes found
+2025-04-22 22:26:12,103 - DETROIT - INFO - Sound system initialized successfully
+2025-04-22 22:26:12,162 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-22 22:26:12,165 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-22 22:26:12,419 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-22 22:26:12,421 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-22 22:26:22,354 - DETROIT - INFO - Running system diagnostics
+2025-04-22 22:26:22,356 - DETROIT - INFO - Starting interactive mode
+2025-04-22 22:26:22,357 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-22 22:26:22,367 - DETROIT - INFO - All required dependencies are installed
+2025-04-22 22:26:23,131 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-22 22:26:24,014 - DETROIT - INFO - Speech recognition process started (PID: 20032).
+2025-04-22 22:26:36,909 - DETROIT - INFO - Wake word detected: 'detroit'! System activated.
+2025-04-22 22:28:19,143 - DETROIT - WARNING - Speech recognition process has ended unexpectedly. Shutting down.
+2025-04-22 22:28:23,907 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 22:28:23,908 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 22:28:23,908 - DETROIT - INFO - Cleaning up processes. Current PID: 9684
+2025-04-22 22:28:23,928 - DETROIT - INFO - No child processes found
+2025-04-22 22:28:26,191 - DETROIT - INFO - Terminating system with exit code 0
+2025-04-22 22:28:31,124 - DETROIT - INFO - State saved successfully
+2025-04-22 22:28:31,126 - DETROIT - INFO - Communication file removed
+2025-04-22 22:28:31,126 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-22 22:28:35,910 - DETROIT - ERROR - Error playing sound: mixer not initialized
+2025-04-22 22:28:35,913 - DETROIT - INFO - State saved successfully
+2025-04-22 22:28:36,915 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 22:28:36,916 - DETROIT - INFO - Cleaning up processes. Current PID: 9684
+2025-04-22 22:28:36,940 - DETROIT - INFO - No child processes found
+2025-04-22 22:28:54,070 - DETROIT - INFO - Sound system initialized successfully
+2025-04-22 22:28:54,140 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-22 22:28:54,143 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-22 22:28:54,435 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-22 22:28:54,436 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-22 22:29:03,110 - DETROIT - INFO - Running system diagnostics
+2025-04-22 22:29:03,111 - DETROIT - INFO - Starting interactive mode
+2025-04-22 22:29:03,112 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-22 22:29:03,122 - DETROIT - INFO - All required dependencies are installed
+2025-04-22 22:29:03,810 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-22 22:29:04,745 - DETROIT - INFO - Speech recognition process started (PID: 7164).
+2025-04-22 22:29:16,616 - DETROIT - INFO - Wake word detected: 'android'! System activated.
+2025-04-22 22:30:15,583 - DETROIT - WARNING - Speech recognition process has ended unexpectedly. Shutting down.
+2025-04-22 22:30:20,346 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 22:30:20,347 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 22:30:20,348 - DETROIT - INFO - Cleaning up processes. Current PID: 3076
+2025-04-22 22:30:20,369 - DETROIT - INFO - No child processes found
+2025-04-22 22:30:22,621 - DETROIT - INFO - Terminating system with exit code 0
+2025-04-22 22:30:27,542 - DETROIT - INFO - State saved successfully
+2025-04-22 22:30:27,544 - DETROIT - INFO - Communication file removed
+2025-04-22 22:30:27,546 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-22 22:30:33,038 - DETROIT - ERROR - Error playing sound: mixer not initialized
+2025-04-22 22:30:33,041 - DETROIT - INFO - State saved successfully
+2025-04-22 22:30:34,043 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 22:30:34,044 - DETROIT - INFO - Cleaning up processes. Current PID: 3076
+2025-04-22 22:30:34,065 - DETROIT - INFO - No child processes found
+2025-04-22 22:30:55,071 - DETROIT - INFO - Sound system initialized successfully
+2025-04-22 22:30:55,138 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-22 22:30:55,145 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-22 22:30:55,465 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-22 22:30:55,466 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-22 22:31:03,352 - DETROIT - INFO - Running system diagnostics
+2025-04-22 22:31:03,354 - DETROIT - INFO - Starting interactive mode
+2025-04-22 22:31:03,355 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-22 22:31:03,367 - DETROIT - INFO - All required dependencies are installed
+2025-04-22 22:31:04,128 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-22 22:31:05,126 - DETROIT - INFO - Speech recognition process started (PID: 22652).
+2025-04-22 22:31:14,998 - DETROIT - INFO - Wake word detected: 'android'! System activated.
+2025-04-22 22:31:57,444 - DETROIT - WARNING - Speech recognition process has ended unexpectedly. Shutting down.
+2025-04-22 22:32:02,214 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 22:32:02,215 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 22:32:02,215 - DETROIT - INFO - Cleaning up processes. Current PID: 11688
+2025-04-22 22:32:02,242 - DETROIT - INFO - No child processes found
+2025-04-22 22:32:04,852 - DETROIT - INFO - Terminating system with exit code 0
+2025-04-22 22:32:10,797 - DETROIT - INFO - State saved successfully
+2025-04-22 22:32:10,799 - DETROIT - INFO - Communication file removed
+2025-04-22 22:32:10,800 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-22 22:32:18,627 - DETROIT - ERROR - Error playing sound: mixer not initialized
+2025-04-22 22:32:18,629 - DETROIT - INFO - State saved successfully
+2025-04-22 22:32:19,631 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 22:32:19,632 - DETROIT - INFO - Cleaning up processes. Current PID: 11688
+2025-04-22 22:32:19,664 - DETROIT - INFO - No child processes found
+2025-04-22 22:32:35,267 - DETROIT - INFO - Sound system initialized successfully
+2025-04-22 22:32:35,340 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-22 22:32:35,343 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-22 22:32:35,574 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-22 22:32:35,574 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-22 22:32:45,852 - DETROIT - INFO - Running system diagnostics
+2025-04-22 22:32:45,855 - DETROIT - INFO - Starting interactive mode
+2025-04-22 22:32:45,855 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-22 22:32:45,865 - DETROIT - INFO - All required dependencies are installed
+2025-04-22 22:32:46,599 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-22 22:32:47,494 - DETROIT - INFO - Speech recognition process started (PID: 1328).
+2025-04-22 22:32:58,370 - DETROIT - INFO - Wake word detected: 'android'! System activated.
+2025-04-22 22:33:27,010 - DETROIT - WARNING - Speech recognition process has ended unexpectedly. Shutting down.
+2025-04-22 22:33:31,722 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 22:33:31,723 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 22:33:31,724 - DETROIT - INFO - Cleaning up processes. Current PID: 9044
+2025-04-22 22:33:31,747 - DETROIT - INFO - No child processes found
+2025-04-22 22:33:34,012 - DETROIT - INFO - Terminating system with exit code 0
+2025-04-22 22:33:38,941 - DETROIT - INFO - State saved successfully
+2025-04-22 22:33:38,943 - DETROIT - INFO - Communication file removed
+2025-04-22 22:33:38,944 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-22 22:33:44,185 - DETROIT - ERROR - Error playing sound: mixer not initialized
+2025-04-22 22:33:44,188 - DETROIT - INFO - State saved successfully
+2025-04-22 22:33:45,190 - DETROIT - INFO - Sound system cleaned up
+2025-04-22 22:33:45,190 - DETROIT - INFO - Cleaning up processes. Current PID: 9044
+2025-04-22 22:33:45,205 - DETROIT - INFO - No child processes found
+2025-04-25 09:56:43,099 - DETROIT - INFO - Sound system initialized successfully
+2025-04-25 09:56:43,373 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-25 09:56:43,421 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-25 09:56:43,710 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-25 09:56:43,714 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-25 09:57:10,052 - DETROIT - INFO - Sound system initialized successfully
+2025-04-25 09:57:10,237 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-25 09:57:10,239 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-25 09:57:11,736 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'D:\\GIT\\myenv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-25 09:57:11,738 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'D:\GIT\myenv\Lib\site-packages\comtypes\gen'
+2025-04-25 09:57:21,803 - DETROIT - INFO - Running system diagnostics
+2025-04-25 09:57:22,029 - DETROIT - INFO - Starting interactive mode
+2025-04-25 09:57:22,046 - DETROIT - INFO - Starting simplified speech recognition script: D:\GIT\DETROIT\EARS\ear_simple.py
+2025-04-25 09:57:22,058 - DETROIT - INFO - All required dependencies are installed
+2025-04-25 09:57:23,760 - DETROIT - INFO - PyAudio test successful: PyAudio found 21 total audio devices
+Found 14 input devices (microphones):
+  - 0: Microsoft Sound Mapper - Input
+  - 1: Microphone (Realtek(R) Audio)
+  - 2: Microphone (DroidCam Virtual Au
+  - 3: Stereo Mix (Realtek(R) Audio)
+  - 6: Primary Sound Capture Driver
+  - 7: Microphone (Realtek(R) Audio)
+  - 8: Microphone (DroidCam Virtual Audio)
+  - 9: Stereo Mix (Realtek(R) Audio)
+  - 13: Microphone (Realtek(R) Audio)
+  - 14: Microphone (DroidCam Virtual Audio)
+  - 15: Stereo Mix (Realtek(R) Audio)
+  - 16: Microphone (Realtek HD Audio Mic input)
+  - 17: Stereo Mix (Realtek HD Audio Stereo input)
+  - 19: MIDI (DroidCam Audio)
+2025-04-25 09:57:24,256 - DETROIT - INFO - Speech recognition process started (PID: 18628).
+2025-04-25 09:57:37,941 - DETROIT - INFO - Wake word detected: 'android'! System activated.
+2025-04-25 09:58:24,411 - DETROIT - WARNING - Speech recognition process has ended unexpectedly. Shutting down.
+2025-04-25 09:58:29,170 - DETROIT - INFO - Sound system cleaned up
+2025-04-25 09:58:29,171 - DETROIT - INFO - Sound system cleaned up
+2025-04-25 09:58:29,173 - DETROIT - INFO - Cleaning up processes. Current PID: 18652
+2025-04-25 09:58:29,197 - DETROIT - INFO - No child processes found
+2025-04-25 09:58:31,956 - DETROIT - INFO - Terminating system with exit code 0
+2025-04-25 09:58:37,216 - DETROIT - INFO - State saved successfully
+2025-04-25 09:58:37,217 - DETROIT - INFO - Communication file removed
+2025-04-25 09:58:37,218 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-25 09:58:45,052 - DETROIT - ERROR - Error playing sound: mixer not initialized
+2025-04-25 09:58:45,053 - DETROIT - INFO - State saved successfully
+2025-04-25 09:58:46,055 - DETROIT - INFO - Sound system cleaned up
+2025-04-25 09:58:46,055 - DETROIT - INFO - Cleaning up processes. Current PID: 18652
+2025-04-25 09:58:46,064 - DETROIT - INFO - No child processes found
+2025-04-28 11:14:17,863 - DETROIT - ERROR - Failed to initialize sound system: No module named 'pygame'
+2025-04-28 11:14:17,894 - DETROIT - INFO - Starting DETROIT robot system
+2025-04-28 11:14:17,894 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-04-28 11:14:17,894 - DETROIT - ERROR - Could not import pyttsx3. Text-to-speech unavailable. Error: No module named 'pyttsx3'
+2025-04-28 11:14:17,894 - DETROIT - INFO - Running system diagnostics
+2025-04-28 11:14:17,895 - DETROIT - INFO - Starting interactive mode
+2025-04-28 11:14:17,895 - DETROIT - ERROR - Error: The speech recognition script 'D:\GIT\DETROIT\EARS\ear_simple.py' was not found.
+2025-04-28 11:14:17,895 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-04-28 11:14:17,895 - DETROIT - ERROR - Could not import pyttsx3. Text-to-speech unavailable. Error: No module named 'pyttsx3'
+2025-04-28 11:14:17,895 - DETROIT - INFO - State saved successfully
+2025-04-28 11:14:18,897 - DETROIT - INFO - Sound system cleaned up
+2025-04-28 11:14:18,898 - DETROIT - INFO - Cleaning up processes. Current PID: 3840
+2025-04-28 11:14:18,922 - DETROIT - INFO - No child processes found
+2025-05-02 15:34:49,202 - DETROIT - ERROR - Failed to initialize sound system: No module named 'pygame'
+2025-05-02 15:38:06,690 - DETROIT - INFO - Sound system initialized successfully
+2025-05-02 15:38:09,467 - DETROIT - INFO - Starting DETROIT robot system
+2025-05-02 15:38:09,467 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-05-02 15:38:09,509 - DETROIT - INFO - Running system diagnostics
+2025-05-02 15:38:09,510 - DETROIT - INFO - Starting interactive mode
+2025-05-02 15:38:09,510 - DETROIT - ERROR - Error: The speech recognition script 'D:\GIT\DETROIT\EARS\ear_simple.py' was not found.
+2025-05-02 15:38:09,510 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-05-02 15:38:20,145 - DETROIT - INFO - State saved successfully
+2025-05-02 15:38:21,173 - DETROIT - INFO - Sound system cleaned up
+2025-05-02 15:38:21,174 - DETROIT - INFO - Sound system cleaned up
+2025-05-02 15:38:21,175 - DETROIT - INFO - Cleaning up processes. Current PID: 4730
+2025-05-02 15:38:21,208 - DETROIT - INFO - Found 2 child processes to terminate
+2025-05-02 15:38:21,208 - DETROIT - INFO - Terminating child process (PID: 4810)
+2025-05-02 15:38:21,211 - DETROIT - INFO - Terminating child process (PID: 4811)
+2025-05-02 15:38:21,221 - DETROIT - INFO - All child processes terminated
+2025-05-02 15:38:35,880 - DETROIT - INFO - Sound system initialized successfully
+2025-05-02 15:38:35,895 - DETROIT - INFO - Starting DETROIT robot system
+2025-05-02 15:38:35,895 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-05-02 15:38:35,986 - DETROIT - INFO - Running system diagnostics
+2025-05-02 15:38:35,986 - DETROIT - INFO - Starting interactive mode
+2025-05-02 15:38:35,987 - DETROIT - ERROR - Error: The speech recognition script 'D:\GIT\DETROIT\EARS\ear_simple.py' was not found.
+2025-05-02 15:38:35,987 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-05-02 15:38:44,465 - DETROIT - INFO - State saved successfully
+2025-05-02 15:38:45,492 - DETROIT - INFO - Sound system cleaned up
+2025-05-02 15:38:45,493 - DETROIT - INFO - Sound system cleaned up
+2025-05-02 15:38:45,494 - DETROIT - INFO - Cleaning up processes. Current PID: 4868
+2025-05-02 15:38:45,532 - DETROIT - INFO - Found 2 child processes to terminate
+2025-05-02 15:38:45,533 - DETROIT - INFO - Terminating child process (PID: 4924)
+2025-05-02 15:38:45,536 - DETROIT - INFO - Terminating child process (PID: 4925)
+2025-05-02 15:38:45,544 - DETROIT - INFO - All child processes terminated
+2025-05-03 18:28:08,950 - DETROIT - INFO - Sound system initialized successfully
+2025-05-03 18:28:08,967 - DETROIT - INFO - Starting DETROIT robot system
+2025-05-03 18:28:08,968 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-05-03 18:28:09,076 - DETROIT - INFO - Running system diagnostics
+2025-05-03 18:28:09,077 - DETROIT - INFO - Starting interactive mode
+2025-05-03 18:28:09,077 - DETROIT - ERROR - Error: The speech recognition script 'D:\GIT\DETROIT\EARS\ear_simple.py' was not found.
+2025-05-03 18:28:09,078 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-05-03 18:28:18,045 - DETROIT - INFO - State saved successfully
+2025-05-03 18:28:19,070 - DETROIT - INFO - Sound system cleaned up
+2025-05-03 18:28:19,070 - DETROIT - INFO - Sound system cleaned up
+2025-05-03 18:28:19,071 - DETROIT - INFO - Cleaning up processes. Current PID: 5975
+2025-05-03 18:28:19,100 - DETROIT - INFO - Found 2 child processes to terminate
+2025-05-03 18:28:19,102 - DETROIT - INFO - Terminating child process (PID: 6031)
+2025-05-03 18:28:19,105 - DETROIT - INFO - Terminating child process (PID: 6032)
+2025-05-03 18:28:19,117 - DETROIT - INFO - All child processes terminated
+2025-05-03 18:41:53,590 - DETROIT - INFO - Sound system initialized successfully
+2025-05-03 18:41:53,611 - DETROIT - INFO - Starting DETROIT robot system
+2025-05-03 18:41:53,612 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-05-03 18:41:53,707 - DETROIT - INFO - Running system diagnostics
+2025-05-03 18:41:53,709 - DETROIT - INFO - Starting interactive mode
+2025-05-03 18:41:53,709 - DETROIT - ERROR - Error: The speech recognition script 'D:\GIT\DETROIT\EARS\ear_simple.py' was not found.
+2025-05-03 18:41:53,710 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-05-03 18:42:02,702 - DETROIT - INFO - State saved successfully
+2025-05-03 18:42:03,727 - DETROIT - INFO - Sound system cleaned up
+2025-05-03 18:42:03,727 - DETROIT - INFO - Sound system cleaned up
+2025-05-03 18:42:03,728 - DETROIT - INFO - Cleaning up processes. Current PID: 8099
+2025-05-03 18:42:03,743 - DETROIT - INFO - Found 2 child processes to terminate
+2025-05-03 18:42:03,743 - DETROIT - INFO - Terminating child process (PID: 8173)
+2025-05-03 18:42:03,744 - DETROIT - INFO - Terminating child process (PID: 8174)
+2025-05-03 18:42:03,749 - DETROIT - INFO - All child processes terminated
+2025-05-03 19:04:47,219 - DETROIT - INFO - Sound system initialized successfully
+2025-05-03 19:04:47,231 - DETROIT - INFO - Starting DETROIT robot system
+2025-05-03 19:04:47,231 - DETROIT - INFO - Initialized RK800 #313-248-317 - Connor
+2025-05-03 19:04:47,313 - DETROIT - INFO - Running system diagnostics
+2025-05-03 19:04:47,313 - DETROIT - INFO - Starting interactive mode
+2025-05-03 19:04:47,313 - DETROIT - ERROR - Error: The speech recognition script 'D:\GIT\DETROIT\EARS\ear_simple.py' was not found.
+2025-05-03 19:04:47,313 - DETROIT - INFO - Shutting down DETROIT robot system
+2025-05-03 19:04:56,180 - DETROIT - INFO - State saved successfully
+2025-05-03 19:04:57,209 - DETROIT - INFO - Sound system cleaned up
+2025-05-03 19:04:57,209 - DETROIT - INFO - Sound system cleaned up
+2025-05-03 19:04:57,210 - DETROIT - INFO - Cleaning up processes. Current PID: 9526
+2025-05-03 19:04:57,235 - DETROIT - INFO - Found 2 child processes to terminate
+2025-05-03 19:04:57,235 - DETROIT - INFO - Terminating child process (PID: 9585)
+2025-05-03 19:04:57,236 - DETROIT - INFO - Terminating child process (PID: 9586)
+2025-05-03 19:04:57,240 - DETROIT - INFO - All child processes terminated

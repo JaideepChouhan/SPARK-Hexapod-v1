@@ -1,0 +1,11 @@
+{
+    "timestamp": "2025-05-03T19:04:56.179885",
+    "system_status": {
+        "audio": true,
+        "vision": true,
+        "movement": true,
+        "thinking": true,
+        "emotion": true
+    },
+    "emergency": false
+}
