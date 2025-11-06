@@ -6,8 +6,8 @@
 
 ## Badges
 
-[![Runner-up: Vigyan Bharti 2024](https://drive.google.com/file/d/1-R5NvM372_FxiZP2MH9qmHqrI-KQbMwv/view?usp=sharing)]()
-[![3rd Runner-up: IEEE JECRC 2024](https://drive.google.com/file/d/1qd9BNoX7pX5vHbdHSIINxmFYH-qhQHFa/view?usp=sharing)]
+[![Runner-up: Vigyan Bharti 2024](https://raw.githubusercontent.com/JaideepChouhan/SPARK-Hexapod-v1/refs/heads/main/assets/Vigyan%20Bharti%202024.jpeg)]()
+[![3rd Runner-up: IEEE JECRC 2024](https://raw.githubusercontent.com/JaideepChouhan/SPARK-Hexapod-v1/refs/heads/main/assets/IEEE-project%20expo.jpeg)]
 
 ---
 
@@ -172,7 +172,8 @@ The software is organized to keep computationally heavy processing (e.g., model 
 
 ## Contact
 
-**E-mail:* jaideepchouhan123@gmail.com
-**Linkedin:* https://linkedin.com/in/jd0214
+**E-mail:** jaideepchouhan123@gmail.com
+
+**Linkedin:** https://linkedin.com/in/jd0214
 
 ---
